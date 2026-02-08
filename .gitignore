@@ -102,7 +102,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -129,7 +128,6 @@ dmypy.json
 .pyre/
 
 # IDE - VSCode
-.vscode/
 *.code-workspace
 
 # IDE - PyCharm
@@ -218,3 +216,9 @@ cache/
 ehthumbs.db
 Icon?
 Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
